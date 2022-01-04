@@ -36,7 +36,7 @@ header nav a:hover{
 /*Filme principal*/
 .filme-principal{
   font-size: 1rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('img/viuvaNegra.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../img/spidermanBackground.jpg');
   height: 35rem;
   background-repeat: no-repeat;
   background-size: cover;
