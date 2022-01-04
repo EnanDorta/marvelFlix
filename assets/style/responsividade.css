@@ -4,7 +4,7 @@
     flex-direction: column;
   }
   .filme-principal{
-    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/assets/img/spiderMobile.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('../img/spidermanBackground.jpg');
     background-size: cover;
   }
   .filme-principal .titulo{
