@@ -1,0 +1,21 @@
+@media screen and (max-width:700px) {
+  header .container{
+    display: flex;
+    flex-direction: column;
+  }
+  .filme-principal{
+    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/assets/img/spiderMobile.jpg');
+    background-size: cover;
+  }
+  .filme-principal .titulo{
+    font-size: 1.5rem;
+  }
+  .filme-principal .descricao{
+    width: 60%;
+    font-size: 0.8rem;
+  }
+  .button{
+    margin-top: 0.8rem;
+    width: 19rem;
+  }
+}
